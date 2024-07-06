@@ -3,7 +3,7 @@
 <h3 align="left">📫 How to reach me email- dipankarporey1996@gmail.com</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dipankar-porey-403320259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojaharihar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipankar-porey-403320259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipankarporey" height="30" width="40" /></a>
 </p>
 
 
