@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20👋%2C%20This is%20Dipankar%20Porey)](https://git.io/typing-svg)
+
 <!--
 **DIPANKARPOREY/DIPANKARPOREY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
